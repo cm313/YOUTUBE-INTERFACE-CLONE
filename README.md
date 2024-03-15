@@ -12,5 +12,5 @@ Utilizes CSS Grid for creating layout structures, offering flexibility and contr
 ## CSS Flexbox:
 Employed for building flexible and efficient layouts, facilitating proper alignment and distribution of content.
 ## Technology:
-HTML
-CSS
+### HTML
+### CSS
